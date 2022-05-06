@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/personal-site/static/css/main.d1882dd9.css",
+    "main.js": "/personal-site/static/js/main.f290afb6.js",
+    "static/media/Anurati-Regular.otf": "/personal-site/static/media/Anurati-Regular.ada0eaa4927bd5989165.otf",
+    "static/media/cool-background.svg": "/personal-site/static/media/cool-background.5f5933be4ec3bc09ca43.svg",
+    "index.html": "/personal-site/index.html",
+    "main.d1882dd9.css.map": "/personal-site/static/css/main.d1882dd9.css.map",
+    "main.f290afb6.js.map": "/personal-site/static/js/main.f290afb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1882dd9.css",
+    "static/js/main.f290afb6.js"
+  ]
+}
