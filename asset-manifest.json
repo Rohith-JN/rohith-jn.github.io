@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-site/static/css/main.cf569f51.css",
-    "main.js": "/personal-site/static/js/main.33c75bcf.js",
+    "main.css": "/personal-site/static/css/main.254789f9.css",
+    "main.js": "/personal-site/static/js/main.b9e9cf80.js",
     "static/media/800252.png": "/personal-site/static/media/800252.39fa2e226ed2f399e229.png",
     "static/media/Anurati-Regular.otf": "/personal-site/static/media/Anurati-Regular.ada0eaa4927bd5989165.otf",
     "static/media/cool-background.svg": "/personal-site/static/media/cool-background.a67004baf15d6be77f22.svg",
@@ -10,11 +10,11 @@
     "static/media/notification.woff?s3g3t9": "/personal-site/static/media/notification.c392cd33d9d9de730f9d.woff",
     "static/media/notification.ttf?s3g3t9": "/personal-site/static/media/notification.c5d9251ea82e42f75381.ttf",
     "index.html": "/personal-site/index.html",
-    "main.cf569f51.css.map": "/personal-site/static/css/main.cf569f51.css.map",
-    "main.33c75bcf.js.map": "/personal-site/static/js/main.33c75bcf.js.map"
+    "main.254789f9.css.map": "/personal-site/static/css/main.254789f9.css.map",
+    "main.b9e9cf80.js.map": "/personal-site/static/js/main.b9e9cf80.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf569f51.css",
-    "static/js/main.33c75bcf.js"
+    "static/css/main.254789f9.css",
+    "static/js/main.b9e9cf80.js"
   ]
 }
