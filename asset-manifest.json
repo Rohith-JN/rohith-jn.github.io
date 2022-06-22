@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9eb3ced0.css",
-    "main.js": "/static/js/main.7ad32a0d.js",
-    "static/media/800252.png": "/static/media/800252.39fa2e226ed2f399e229.png",
+    "main.css": "/static/css/main.80314fc4.css",
+    "main.js": "/static/js/main.7492db21.js",
     "static/media/Anurati-Regular.otf": "/static/media/Anurati-Regular.ada0eaa4927bd5989165.otf",
     "static/media/cool-background.svg": "/static/media/cool-background.a67004baf15d6be77f22.svg",
     "static/media/notification.svg?s3g3t9": "/static/media/notification.5d0158671dd860c714c4.svg",
@@ -10,11 +9,11 @@
     "static/media/notification.woff?s3g3t9": "/static/media/notification.c392cd33d9d9de730f9d.woff",
     "static/media/notification.ttf?s3g3t9": "/static/media/notification.c5d9251ea82e42f75381.ttf",
     "index.html": "/index.html",
-    "main.9eb3ced0.css.map": "/static/css/main.9eb3ced0.css.map",
-    "main.7ad32a0d.js.map": "/static/js/main.7ad32a0d.js.map"
+    "main.80314fc4.css.map": "/static/css/main.80314fc4.css.map",
+    "main.7492db21.js.map": "/static/js/main.7492db21.js.map"
   },
   "entrypoints": [
-    "static/css/main.9eb3ced0.css",
-    "static/js/main.7ad32a0d.js"
+    "static/css/main.80314fc4.css",
+    "static/js/main.7492db21.js"
   ]
 }
